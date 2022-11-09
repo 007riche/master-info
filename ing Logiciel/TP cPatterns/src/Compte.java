@@ -1,5 +1,6 @@
 public class Compte {
-    private  Client client;
+      Client client;
+
     public Compte(Client c) {
         this.client = c;
     }
